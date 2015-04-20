@@ -1,0 +1,27 @@
+c:\users\dacorie\documents\visual studio 2013\Projects\BinaryMultiplication\BinaryMultiplication\bin\Debug\BinaryMultiplication.exe.config
+c:\users\dacorie\documents\visual studio 2013\Projects\BinaryMultiplication\BinaryMultiplication\bin\Debug\BinaryMultiplication.exe
+c:\users\dacorie\documents\visual studio 2013\Projects\BinaryMultiplication\BinaryMultiplication\bin\Debug\BinaryMultiplication.pdb
+c:\users\dacorie\documents\visual studio 2013\Projects\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.csprojResolveAssemblyReference.cache
+c:\users\dacorie\documents\visual studio 2013\Projects\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.Form1.resources
+c:\users\dacorie\documents\visual studio 2013\Projects\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.Properties.Resources.resources
+c:\users\dacorie\documents\visual studio 2013\Projects\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.csproj.GenerateResource.Cache
+c:\users\dacorie\documents\visual studio 2013\Projects\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.exe
+c:\users\dacorie\documents\visual studio 2013\Projects\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.pdb
+C:\Users\Alex McCrae\Desktop\BinaryMultiplication\BinaryMultiplication\bin\Debug\BinaryMultiplication.exe.config
+C:\Users\Alex McCrae\Desktop\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.exe
+C:\Users\Alex McCrae\Desktop\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.pdb
+C:\Users\Alex McCrae\Desktop\BinaryMultiplication\BinaryMultiplication\bin\Debug\BinaryMultiplication.exe
+C:\Users\Alex McCrae\Desktop\BinaryMultiplication\BinaryMultiplication\bin\Debug\BinaryMultiplication.pdb
+C:\Users\Alex McCrae\Desktop\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.csprojResolveAssemblyReference.cache
+C:\Users\Alex McCrae\Desktop\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.Form1.resources
+C:\Users\Alex McCrae\Desktop\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.Properties.Resources.resources
+C:\Users\Alex McCrae\Desktop\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.csproj.GenerateResource.Cache
+C:\Users\dacorie\Desktop\BinaryMultiplication\BinaryMultiplication\bin\Debug\BinaryMultiplication.exe.config
+C:\Users\dacorie\Desktop\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.exe
+C:\Users\dacorie\Desktop\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.pdb
+C:\Users\dacorie\Desktop\BinaryMultiplication\BinaryMultiplication\bin\Debug\BinaryMultiplication.exe
+C:\Users\dacorie\Desktop\BinaryMultiplication\BinaryMultiplication\bin\Debug\BinaryMultiplication.pdb
+C:\Users\dacorie\Desktop\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.csprojResolveAssemblyReference.cache
+C:\Users\dacorie\Desktop\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.Form1.resources
+C:\Users\dacorie\Desktop\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.Properties.Resources.resources
+C:\Users\dacorie\Desktop\BinaryMultiplication\BinaryMultiplication\obj\Debug\BinaryMultiplication.csproj.GenerateResource.Cache
